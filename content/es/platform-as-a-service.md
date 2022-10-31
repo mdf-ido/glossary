@@ -1,7 +1,8 @@
 ---
 title: Plataforma como servicio (PaaS)
-status: Feedback Appreciated
-category: Concepto
+status: Completed
+category: Tecnología
+tags: ["fundamentals", "platform", ""]
 ---
 
 ## ¿Qué es?
