@@ -18,5 +18,5 @@ Estos incluyen tareas como el aprovisionamiento de infraestructura, el manejo de
 ## ¿Cómo ayuda?
 
 Una solución PaaS ofrece herramientas de infraestructura comunes, a los desarrolladores de aplicaciones de forma totalmente automatizada. 
-Permite que los desarrolladores puedan enfocarse en escribir codigo y les quita la  preocupación de mantener la infraestructura. 
+Permite que los desarrolladores puedan comprender y preocuparse menos por la infraestructura y asi dedicar mas tiempo en escribir código de la aplicación. 
 También proporciona cierta supervisión y [observabilidad](/es/observability/) para ayudar a los equipos de aplicaciones a garantizar que sus aplicaciones estén en buen estado.
