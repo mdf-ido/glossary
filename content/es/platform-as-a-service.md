@@ -12,7 +12,7 @@ tags: ["fundamentals", "platform", ""]
 
 ## Problema que aborda
 
-Para aprovechar soluciones como los microservicios, contenedores o las aplicaciones distribuidas, los equipos de operaciones y los desarrolladores tienen que dedicar tiempo y trabajo en mantener la infraestructura. 
+Para aprovechar los patrones de las aplicaciones nativas para la nube como son los [microservicios](/microservices/) o las [aplicaciones distribuidas](/distributed-apps/), los equipos de operaciones y los desarrolladores necesitan ser capaces de descargar un tiempo significativo de trabajo en operaciones y mantenimiento.
 Estos incluyen tareas como el aprovisionamiento de infraestructura, el manejo del descubrimiento de servicios y el equilibrio de carga a las aplicaciones entre otros.
 
 ## ¿Cómo ayuda?
