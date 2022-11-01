@@ -5,6 +5,7 @@ Aniszczyk
 Anyul
 API
 APIs
+App
 application
 Appreciated
 architecture
@@ -64,6 +65,7 @@ DigitalOcean
 directly
 ej
 Emiliano
+Engine
 entregables
 escalarse
 escaneos
@@ -73,8 +75,10 @@ Feedback
 first
 Foster
 foundation
+Foundry
 framework
 frontend
+fundamentals
 Garcia
 gateway
 GCP
@@ -86,6 +90,7 @@ Gmail
 good
 Google
 help
+Heroku
 hide
 hipervisor
 https
@@ -134,7 +139,9 @@ of
 on
 on-premises
 Open
+PaaS
 Paganini
+platform
 portable
 pr
 prem
@@ -176,7 +183,6 @@ the
 title
 toc
 triaging
-true
 trunk
 update
 URL
